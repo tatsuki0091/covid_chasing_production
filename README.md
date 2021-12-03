@@ -1,2 +1,2 @@
-npm install --save --legacy-peer-deps react-chartjs-2@2.9.0 chart.js@2.9.3
-# covid_chasing_production
+This is the application to trace Covid19 patients.
+This app fetch the data from https://covid19api.com/
